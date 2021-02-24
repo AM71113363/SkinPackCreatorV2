@@ -3,8 +3,8 @@
 200 ICON "main.ico"
 
 1 VERSIONINFO
-FILEVERSION 1,0,4,0
-PRODUCTVERSION 1,0,4,0
+FILEVERSION 1,0,7,0
+PRODUCTVERSION 1,0,7,0
 FILETYPE VFT_APP
 {
   BLOCK "StringFileInfo"
@@ -13,13 +13,13 @@ FILETYPE VFT_APP
 		 {
 			 VALUE "CompanyName", "AM71113363"
 			 VALUE "FileVersion", ""
-			 VALUE "FileDescription", "19-02-2021"
+			 VALUE "FileDescription", "24-02-2021"
 			 VALUE "InternalName", ""
 			 VALUE "LegalCopyright", ""
 			 VALUE "LegalTrademarks", ""
 			 VALUE "OriginalFilename", ""
 			 VALUE "ProductName", ""
-			 VALUE "ProductVersion", "2.1"
+			 VALUE "ProductVersion", "2.2"
 		 }
 	 }
   BLOCK "VarFileInfo"
