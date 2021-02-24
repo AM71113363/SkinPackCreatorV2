@@ -16,7 +16,7 @@
 8. The App will EXIT when DONE.<br>
 
 ## Settings<br>
-* SkinPack Name can't be black.<br>
+* SkinPack Name can't be blank.<br>
 * If SkinPack Description is blank the App will use "SkinPack Name" as "SkinPack Description".<br>
 * You must select at least one Geometry Option.<br>
 _example_<br>
