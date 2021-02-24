@@ -26,7 +26,7 @@ MC will show 4 Skins, 1 for each "Geometry Option".<br>
 * You must select at least one Format Option.<br>
 _example_<br>
 Enable only Format 64x64, you can Drag-Drop all png files with diff format, but<br>
-the .mcpack will contain only skins with format 64x64.<br>
+only skins with format 64x64 will be added to .mcpack.<br>
 * "Imported Skins NUMBER " show the number of Drag-Drop skins, and not the number of valid skins.<br>
 _example_<br>
 Drag-Drop 2 PNG files: "steve.png" & "Just_a_random_image.png"<br>
