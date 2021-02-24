@@ -5,7 +5,7 @@
 # SkinPackCreatorV2
 -----
 
-## How To Create .mcpack Skins for Minecraft Bedrock Edititon?<br>
+## How To Create .mcpack Skins for Minecraft Bedrock Edition?<br>
 1. Run SkinPackCreatorV2.exe (32Bit Windows).<br>
 2. Set SkinPack Name.<br>
 3. Set SkinPack Description.<br>
