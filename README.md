@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" width="456" height="189" src="https://github.com/AM71113363/SkinPackCreatorV2/blob/master/info.png?raw=true">
+<img align="center" width="200" height="189" src="https://github.com/AM71113363/SkinPackCreatorV2/blob/master/info.png?raw=true">
 </p>
 
 # SkinPackCreatorV2
