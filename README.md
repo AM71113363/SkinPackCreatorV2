@@ -22,7 +22,7 @@
 _example_<br>
 Enable All Geometry options, Drag-Drop "steve.png".<br>
 The App will add to .mcpack only 1 png file, but<br>
-MC will show 4 Skins for each "Geometry Option".<br>
+MC will show 4 Skins, 1 for each "Geometry Option".<br>
 * You must select at least one Format Option.<br>
 _example_<br>
 Enable only Format 64x64, you can Drag-Drop all png files with diff format, but<br>
