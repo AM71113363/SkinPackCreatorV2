@@ -15,6 +15,7 @@ UCHAR *GenerateUUID(UCHAR *buffer,DWORD *crc)
     DWORD t=*crc; 
     p=buffer;
     n=sprintf(buffer,"%x%d%X\0",r,r,r);
+    //n=sprintf(buffer,"AM%x%d%X\0",r,r,r);
     if(n<30)
     {
       memset(&buffer[n],'X',31-n);
@@ -35,6 +36,7 @@ UCHAR *GenerateUUID(UCHAR *buffer,DWORD *crc)
     
     //remove '0' from buffer
      c=("0123456789abcdef")[t&0xf];
+    //c=("123456789abcdef")[t&0xe];
      for(i=0;i<32;i++){ if(buffer[i]=='0') buffer[i]=c; }
      b=buffer+31;
      p=buffer+35;
